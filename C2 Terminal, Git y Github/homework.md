@@ -1,4 +1,4 @@
-![HenryLogo](../Assets//logoBannerHenry.png)
+cd ..git clone https://github.com/Jonachoda/RepositorioHenry.git![HenryLogo](../Assets//logoBannerHenry.png)
 
 # **HOMEWORK 02 | COMANDOS - GIT - GITHUB**
 
